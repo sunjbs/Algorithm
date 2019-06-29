@@ -1,0 +1,9 @@
+out/
+timecomplex/
+input/
+.vscode/
+competition/
+
+*.txt
+test.*
+*generator*
