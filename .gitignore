@@ -7,3 +7,4 @@ competition/
 *.txt
 test.*
 *generator*
+.DS_Store
